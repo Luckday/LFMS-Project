@@ -1,0 +1,6 @@
+{
+  "name": "LexVeritas | Global Lawyer Directory & Practice Management",
+  "description": "Prestigious Glassmorphism legal network, lawyer directory, and practice portal with Bar Council verification, multi-criteria filtering, and client consultation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
